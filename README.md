@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electric Power System | Smart Grid | Electrical Vehicle | Renewable Energy | AI | Power Market
 - 🌱 I’m currently learning DRL and researching
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me: mohammadjavadpeyravi@gmail.com or Peyravi_m@elec.iust.ac.ir
+- 📫 How to reach me: mohammadjavadpeyravi@gmail.com or peyravi_m@elec.iust.ac.ir
 
 
 <!---
